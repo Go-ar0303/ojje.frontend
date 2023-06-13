@@ -1,0 +1,39 @@
+.head{
+    background: url("bgc.png");
+    width: 1200px;
+    height: 950px;
+    margin: 0 auto;
+   
+}
+
+.left_side{
+    display: flex;
+    margin-top: 43px;
+}
+.left_item{
+    color: aliceblue;
+    margin-right: 40px;
+}
+.header_menu{
+    display: flex;
+
+}
+.left_side{
+    display: flex;
+    margin-top: 43px ;
+
+}
+.logo{
+    margin-top: 25px;
+    margin-left: 126px;
+    margin-right: 50px;
+ 
+}
+.logo_search{
+    margin-right: 16px;
+}
+.left_item{
+    margin-right: 40px;
+    justify-content: space-evenly;
+
+}
